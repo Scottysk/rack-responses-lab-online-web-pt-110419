@@ -5,4 +5,4 @@ class Application
     
     time = Time.now.hour
     
-    if
+    if time <= 12
